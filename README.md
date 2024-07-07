@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IskanMir
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on someon
+- 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me ...
 - 😄 Pronouns: Mello
 - ⚡ Fun fact: 
